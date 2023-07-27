@@ -1,0 +1,8 @@
+#Webstorm metadata
+.idea
+
+dist/
+node_modules/
+desktop.ini/
+/package-lock.json
+
